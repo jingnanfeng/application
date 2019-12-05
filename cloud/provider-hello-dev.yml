@@ -52,4 +52,4 @@ mybatis:
   mapper-locations: classpath*:mapper/*.xml
   configuration:
     map-underscore-to-camel-case: true
-foo: hello new bus
+foo: hello new2 bus
